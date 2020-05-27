@@ -8,3 +8,6 @@ Using this model, BigMart will try to understand the properties of products and 
 
 ## Data
 ![DataDescription](/DataDescription.png)
+
+## Evaluation Metric
+RMSE
